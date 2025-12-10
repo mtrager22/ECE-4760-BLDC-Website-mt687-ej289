@@ -30,7 +30,7 @@ nav {
 
 .menu {
 	flex-direction: column;
-	background-color: rgb(20, 20, 20);
+	background-color: #534493;
 }
 
 .menu a.is-active {
