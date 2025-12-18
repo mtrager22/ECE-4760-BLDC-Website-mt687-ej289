@@ -1,7 +1,7 @@
 html {
 	background-color: #dddcdb;
 	font-size: 100%;
-	font-family: 'Roboto', 'Arial', sans-serif;
+	font-family: 'Tahoma', 'Arial', sans-serif;
 	box-sizing: border-box;
 	width: 100%;
 }
@@ -87,7 +87,7 @@ a.drop {
 
 h1 {
 	color: rgb(20, 20, 20);
-	font-family: 'Helvetica', 'Arial', sans-serif;
+	font-family: 'Tahoma', 'Helvetica', 'Arial', sans-serif;
 	font-weight: bold;
 	font-size: 60px;
 	text-align: center;
@@ -95,7 +95,7 @@ h1 {
 
 h4 {
 	color: rgb(20, 20, 20);
-	font-family: 'Helvetica', 'Arial', sans-serif;
+	font-family: 'Tahoma','Helvetica', 'Arial', sans-serif;
 	font-weight: normal;
 	font-size: 20px;
 	text-align: left;
@@ -130,9 +130,9 @@ main {
 .introtext {
 	margin: 0;
 	text-align: center;
-	background-color: rgb(94, 94, 94);
+	background-color: rgb(83, 68, 147);
 	padding: 6px;
-	font-size: 14pt;
+	font-size: 18pt;
 	font-weight: bold;
 	color: rgb(251, 251, 251);
 	padding: 10px;
@@ -288,7 +288,7 @@ footer p {
 	color: #ffffff;
 	text-align: center;
 }
-
+/*
 main img {
 	margin-left: 10px;
 	margin-right: 10px;
@@ -300,11 +300,11 @@ main img {
 	display: block;
 	border-radius: 15px;
 }
-
+*/
 .caption {
 	text-align: center;
 	color: rgb(20, 20, 20);
-	font-weight: bold;
+	font-style: italic;
 }
 
 @media (min-width: 600px) {
@@ -356,7 +356,7 @@ main img {
 		height: 30px;
 		padding: 0 20px;
 		text-align: center;
-		text-transform: uppercase;
+		
 	}
 
 	.menu #home {
