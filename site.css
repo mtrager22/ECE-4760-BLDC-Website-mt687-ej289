@@ -194,6 +194,11 @@ h3 {
 	font-size: 18px;
 }
 
+.code_fonts {
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 18px;
+}
+
 #price {
 	padding-left: 30px;
 	font-size: 20px;
