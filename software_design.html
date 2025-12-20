@@ -202,7 +202,7 @@ uint32_t data = 0b000000 |
         </p>
         <img src="images/v_hz_fracs.png" style="display: block; margin: auto;" width="700"/>
         <pre style="font-size: larger; font-family: 'Courier New', Courier, monospace;">
-              float raw_rpm = 2.5e-6f / step_period;
+              float raw_rpm = 2.5e6f / step_period;
         </pre>
         <p class="project">
           Although this updates our velocity most accurately at the highest frequency, this method does not work as the motor stops rotating, because the hall effect sensors 
